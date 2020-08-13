@@ -1,2 +1,3 @@
 # hello-world
-first try
+第一次尝试
+总是learning
